@@ -16,6 +16,7 @@ function About(){
           <h3 style={style}>Rushabh</h3>
       </>
     );
+
 }
 
 export default About;
