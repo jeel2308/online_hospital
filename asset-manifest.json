@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/online_hospital/static/css/main.677c2d71.chunk.css",
+    "main.js": "/online_hospital/static/js/main.ea9f0d6d.chunk.js",
+    "main.js.map": "/online_hospital/static/js/main.ea9f0d6d.chunk.js.map",
+    "runtime-main.js": "/online_hospital/static/js/runtime-main.7161d7d9.js",
+    "runtime-main.js.map": "/online_hospital/static/js/runtime-main.7161d7d9.js.map",
+    "static/js/2.1dea38b5.chunk.js": "/online_hospital/static/js/2.1dea38b5.chunk.js",
+    "static/js/2.1dea38b5.chunk.js.map": "/online_hospital/static/js/2.1dea38b5.chunk.js.map",
+    "index.html": "/online_hospital/index.html",
+    "precache-manifest.d13fdba683672f8c717024158e44d1fb.js": "/online_hospital/precache-manifest.d13fdba683672f8c717024158e44d1fb.js",
+    "service-worker.js": "/online_hospital/service-worker.js",
+    "static/css/main.677c2d71.chunk.css.map": "/online_hospital/static/css/main.677c2d71.chunk.css.map",
+    "static/js/2.1dea38b5.chunk.js.LICENSE.txt": "/online_hospital/static/js/2.1dea38b5.chunk.js.LICENSE.txt",
+    "static/media/509623.jpg": "/online_hospital/static/media/509623.9ab624c1.jpg",
+    "static/media/Flash.jpg": "/online_hospital/static/media/Flash.bbcf4afc.jpg",
+    "static/media/clones.jpg": "/online_hospital/static/media/clones.8b7d8871.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7161d7d9.js",
+    "static/js/2.1dea38b5.chunk.js",
+    "static/css/main.677c2d71.chunk.css",
+    "static/js/main.ea9f0d6d.chunk.js"
+  ]
+}
