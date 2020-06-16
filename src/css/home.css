@@ -1,0 +1,24 @@
+button {
+    background-color: #90caf9 !important;
+    margin: 10px 0 !important;
+    padding: 0 !important;
+    width: 50%;
+}
+
+button a{
+    color : black;
+    display: block;
+    padding: 6px 16px;
+    text-decoration: none;
+    width:100%;
+}
+
+button a:hover {
+    text-decoration: none;
+}
+
+#doctors {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
